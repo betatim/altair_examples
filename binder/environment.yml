@@ -1,0 +1,7 @@
+
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+- altair
+- vega_datasets
